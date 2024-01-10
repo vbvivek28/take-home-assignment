@@ -39,7 +39,7 @@ cd ai-chat-app
 npm install
 npm start
 ```
-# Visit http://localhost:3000 in your browser to interact with the AI Chat Application.
+##### Visit http://localhost:3000 in your browser to interact with the AI Chat Application.
 
 
 
