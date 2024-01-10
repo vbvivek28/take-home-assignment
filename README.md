@@ -36,12 +36,12 @@ npm install
 cd ai-chat-backend
 npm run start
 ```
-###Start the frontend (React):
+### Start the frontend (React):
 ```bash
 cd ai-chat-app
 npm start
 ```
-### Visit http://localhost:3000 in your browser to interact with the AI Chat Application.
+## Visit http://localhost:3000 in your browser to interact with the AI Chat Application.
 
 
 
