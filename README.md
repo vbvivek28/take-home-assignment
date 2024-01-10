@@ -20,25 +20,23 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ai-chat-application.git
+   git clone https://github.com/vbvivek28/take-home-assignment.git
    ```
 2.**Navigate to the Project Directory:**
   ```bash
-  cd ai-chat-application
+  cd take-home-assignment
   ```
-3.**Install Dependencies:**
- ```bash
-npm install
-```
-4.**Run the Application:**
+3.**Run the Application:**
  ### Start the backend server (Node.js):
  ```bash
 cd ai-chat-backend
-npm run start
+npm install
+node server.js
 ```
 ### Start the frontend (React):
 ```bash
 cd ai-chat-app
+npm install
 npm start
 ```
 ## Visit http://localhost:3000 in your browser to interact with the AI Chat Application.
